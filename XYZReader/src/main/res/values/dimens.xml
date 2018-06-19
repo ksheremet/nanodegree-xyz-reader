@@ -10,5 +10,16 @@
     <dimen name="fab_margin">16dp</dimen>
 
     <dimen name="appbar_height">112dp</dimen>
+    <dimen name="appbar_elevation">4dp</dimen>
+
+
+    <!-- CardView dimens -->
+    <dimen name="card_view_height">250dp</dimen>
+    <dimen name="card_view_margin">8dp</dimen>
+    <dimen name="card_view_elevation">1dp</dimen>
+    <dimen name="card_view_image_height">200dp</dimen>
+    <dimen name="card_view_text_padding">16dp</dimen>
+    <dimen name="card_view_corner_radius">4dp</dimen>
+    <dimen name="card_text_bottom_padding">4dp</dimen>
 
 </resources>

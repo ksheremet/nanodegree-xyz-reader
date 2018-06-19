@@ -28,4 +28,28 @@
         <item name="android:statusBarColor">@android:color/transparent</item>
     </style>
 
+    <style name="CardViewStyle">
+        <item name="android:elevation">@dimen/card_view_elevation</item>
+        <item name="android:layout_margin">@dimen/card_view_margin</item>a
+        <item name="android:layout_height">@dimen/card_view_height</item>
+    </style>
+
+    <style name="CardTextTitleStyle">
+        <item name="android:paddingRight">@dimen/card_view_text_padding</item>
+        <item name="android:paddingLeft">@dimen/card_view_text_padding</item>
+        <item name="android:paddingTop">@dimen/card_view_text_padding</item>
+        <item name="android:paddingBottom">@dimen/card_text_bottom_padding</item>
+        <item name="android:textColor">@color/primaryText</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Subhead</item>
+        <item name="android:maxLines">4</item>
+    </style>
+    <style name="CardTextSubtitleStyle">
+        <item name="android:paddingRight">@dimen/card_view_text_padding</item>
+        <item name="android:paddingLeft">@dimen/card_view_text_padding</item>
+        <item name="android:paddingBottom">@dimen/card_text_bottom_padding</item>
+        <item name="android:textColor">@color/secondaryText</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Body1</item>
+        <item name="android:maxLines">4</item>
+    </style>
+
 </resources>
