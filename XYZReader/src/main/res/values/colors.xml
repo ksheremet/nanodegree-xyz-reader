@@ -25,7 +25,7 @@
     <color name="secondaryText">#757575</color>
     <color name="divider">#BDBDBD</color>
     
-    <color name="photo_placeholder">#ccc</color>
-    <color name="article_title">#fff</color>
-    <color name="article_byline_color">#8fff</color>
+    <color name="photoPlaceholder">#ccc</color>
+    <color name="articleTitle">#fff</color>
+    <color name="articleBylineColor">#8fff</color>
 </resources>

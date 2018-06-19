@@ -62,14 +62,14 @@
     <style name="ArticleBylineStyle">
         <item name="android:fontFamily">sans-serif</item>
         <item name="android:textAppearance">@style/TextAppearance.AppCompat.Small</item>
-        <item name="android:textColor">@color/article_byline_color</item>
+        <item name="android:textColor">@color/articleBylineColor</item>
     </style>
 
     <style name="ArticleTitleStyle">
         <item name="android:fontFamily">sans-serif</item>
         <item name="android:textAppearance">@style/TextAppearance.AppCompat.Large</item>
         <item name="android:lineSpacingMultiplier">0.9</item>
-        <item name="android:textColor">@color/article_title</item>
+        <item name="android:textColor">@color/articleTitle</item>
     </style>
 
 
