@@ -43,6 +43,7 @@
         <item name="android:textAppearance">@style/TextAppearance.AppCompat.Subhead</item>
         <item name="android:maxLines">4</item>
     </style>
+
     <style name="CardTextSubtitleStyle">
         <item name="android:paddingRight">@dimen/card_view_text_padding</item>
         <item name="android:paddingLeft">@dimen/card_view_text_padding</item>
@@ -51,5 +52,25 @@
         <item name="android:textAppearance">@style/TextAppearance.AppCompat.Body1</item>
         <item name="android:maxLines">4</item>
     </style>
+
+    <style name="ArticleTextStyle">
+        <item name="android:fontFamily">serif</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textColorLink">@color/colorAccent</item>
+    </style>
+
+    <style name="ArticleBylineStyle">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Small</item>
+        <item name="android:textColor">@color/article_byline_color</item>
+    </style>
+
+    <style name="ArticleTitleStyle">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Large</item>
+        <item name="android:lineSpacingMultiplier">0.9</item>
+        <item name="android:textColor">@color/article_title</item>
+    </style>
+
 
 </resources>

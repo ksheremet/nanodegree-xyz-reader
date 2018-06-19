@@ -26,4 +26,6 @@
     <color name="divider">#BDBDBD</color>
     
     <color name="photo_placeholder">#ccc</color>
+    <color name="article_title">#fff</color>
+    <color name="article_byline_color">#8fff</color>
 </resources>
